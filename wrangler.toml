@@ -1,0 +1,4 @@
+name = "sentinelshield"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+account_id = "fca8e03d9e6186a91833a17226ad6d0c"
