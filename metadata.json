@@ -1,0 +1,6 @@
+{
+  "name": "x402 Autonomous Profit Experiment & Empirical Workbench",
+  "description": "Empirical investigation, wash volume deconstruction, on-chain verification, and autonomous agent monetization engine for the x402 payment protocol on Base.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
